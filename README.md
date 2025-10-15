@@ -6,6 +6,10 @@
 
 ---
 
+🚀 About Me
+
+Olá, bem-vindo ao meu perfil! Me chamo Raique, estou cursando Análise e Desenvolvimento de Sistemas, e atuo atualmente como Desenvolvedor Full-Stack Jr. Tenho 2 anos de experiência na área de desenvolvimento.
+
 ### 🧠 Tecnologias e Ferramentas
 <div align="left">
   
@@ -15,6 +19,14 @@
   **Outros:** Git, Docker, Linux, Postman, REST API
   
 </div>
+
+---
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,vue,vscode,visualstudio,php,nodejs,mysql,jquery,js" />
+  </a>
+</p>
 
 ---
 
