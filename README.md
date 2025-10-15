@@ -34,5 +34,5 @@
 ---
 
 ### 💬 Contato
-📧 **Email:** seuemail@exemplo.com  
+📧 **Email:** raiquegomes@gmail.com  
 🔗 **LinkedIn:** [linkedin.com/in/raiquegomes](https://linkedin.com/in/raiquegomes)  
