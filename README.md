@@ -8,7 +8,7 @@
 
 🚀 About Me
 
-Olá, bem-vindo ao meu perfil! Me chamo Raique, estou cursando Análise e Desenvolvimento de Sistemas, e atuo atualmente como Desenvolvedor Full-Stack Jr. Tenho 2 anos de experiência na área de desenvolvimento.
+Olá, bem-vindo ao meu perfil! Me chamo Raique, estou cursando Análise e Desenvolvimento de Sistemas, e atuo atualmente como Desenvolvedor Full-Stack Jr. Tenho algumas experiências em desenvolvimento web utilizando frameworks como Laravel, Filament para construção de dashboard customizados e relatorios dinamicos.
 
 ### 🧠 Tecnologias e Ferramentas
 <div align="left">
