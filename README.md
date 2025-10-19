@@ -30,13 +30,6 @@ Olá, bem-vindo ao meu perfil! Me chamo Raique, estou cursando Análise e Desenv
 
 ---
 
-### 📂 Projetos em destaque
-- 🧾 [Zook Admin](https://github.com/raiquegomes/zook-admin) — Sistema de rotinas e recompensas empresariais com métricas de desempenho.  
-- ⚙️ [Ordem de Manutenção](https://github.com/raiquegomes/maintenance-system) — Controle completo de ordens de serviço com Filament 3.  
-- 📱 [Zook App (Flutter)](https://github.com/raiquegomes/zook-app) — Aplicativo mobile com sincronização offline/online.
-
----
-
 ### 📈 Estatísticas do GitHub
 <p align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=raiquegomes&show_icons=true&theme=dracula"/>
