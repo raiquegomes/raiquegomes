@@ -1,4 +1,9 @@
-# 👋 Olá, eu sou o Raique!
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=timeGradient&section=header" style="max-width: 100%;"></img>
+# <div align="center">🌍 Olá mundo, eu sou o Raique! 👨‍💻</div>
+
+<div align="center">
+  <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Welcome+To+My+GitHub+Profile!" alt="Typing SVG" /></a>
+</div>
 
 💻 Desenvolvedor Full Stack apaixonado por construir soluções inteligentes e práticas.  
 🚀 Atualmente trabalho com **Laravel + Filament + Flutter**, criando sistemas completos e integrados.  
@@ -8,36 +13,44 @@
 
 🚀 About Me
 
-Olá, bem-vindo ao meu perfil! Me chamo Raique, estou cursando Análise e Desenvolvimento de Sistemas, e atuo atualmente como Desenvolvedor Full-Stack Jr. Tenho algumas experiências em desenvolvimento web utilizando frameworks como Laravel, Filament para construção de dashboard customizados e relatorios dinamicos.
+Olá, me chamo Raique e curso Análise e Desenvolvimento de Sistemas. Estou em busca de uma oportunidade como Desenvolvedor Full Stack Jr, com foco em PHP (Laravel) e evolução contínua em Java (Spring), participando de projetos onde eu possa entregar valor e crescer rapidamente.
+
+🎯 Objetivo
+
+Busco constante evolução técnica, aprendizado de novas tecnologias e participação em projetos de diferentes portes, com foco em impacto e crescimento profissional.
+
+💼 Experiências Profissional
+
+- Desenvolvedor Web/Full Stack Jr (PHP/Laravel + Filament) — Desenvolvimento e manutenção de rotinas administrativas com CRUDs completos, regras de negócio, multi-tenancy, automações (Jobs/Scheduler), uploads e relatórios (Excel/PDF).
 
 ### 🧠 Tecnologias e Ferramentas
 <div align="left">
   
-  **Backend:** PHP (Laravel), MySQL, Filament 3  
-  **Frontend:** Blade, Vue.js (ou Flutter Web se usar), HTML, CSS, JS  
-  **Mobile:** Flutter + API Laravel  
+  **Backend:** PHP, Laravel, Java, Spring, MySQL, Filament  
+  **Frontend:** Blade, Vue.js, HTML, CSS, JS  
   **Outros:** Git, Docker, Linux, Postman, REST API
   
 </div>
 
----
-
+## 🛠 Habilidades
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,vue,vscode,visualstudio,php,nodejs,mysql,jquery,js" />
+    <img src="https://skillicons.dev/icons?i=java,spring,html,css,jquery,js,php,laravel,nodejs,vue,docker,vscode,mysql,linux,github," />
   </a>
 </p>
 
----
+##
 
-### 📈 Estatísticas do GitHub
-<p align="center">
+
+<p align="center">### 📈 Estatísticas do GitHub
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=raiquegomes&show_icons=true&theme=dracula"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raiquegomes&layout=compact&theme=dracula"/>
 </p>
 
----
+##
 
 ### 💬 Contato
 📧 **Email:** raiquegomes@gmail.com  
 🔗 **LinkedIn:** [linkedin.com/in/raiquegomes](https://linkedin.com/in/raiquegomes)  
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=timeGradient&section=footer" style="max-width: 100%;"></img>
