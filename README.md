@@ -51,4 +51,8 @@ Busco constante evolução técnica, aprendizado de novas tecnologias e particip
 📧 **Email:** raiquegomes@gmail.com  
 🔗 **LinkedIn:** [linkedin.com/in/raiquegomes](https://linkedin.com/in/raiquegomes)  
 
+<div align="center">
+<img width="50%" src="https://github.blog/wp-content/uploads/2021/10/game-off-gif.gif?resize=1600%2C850" style="max-width: 50%;"></img>
+</div>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=timeGradient&section=footer" style="max-width: 100%;"></img>
