@@ -6,31 +6,28 @@
 </div>
 
 💻 Desenvolvedor Full Stack apaixonado por construir soluções inteligentes e práticas.  
-🚀 Atualmente trabalho com **Laravel + Filament + Flutter**, criando sistemas completos e integrados.  
+🚀 Atualmente com experiência solida com **Laravel + Filament**, tambem em processo de aprendizagem na area de Java e Spring criando sistemas completos e integrados.  
 🎯 Busco evoluir constantemente e transformar ideias em produtos reais.
 
 ---
 
-🚀 About Me
+## 🚀 About Me
 
 Olá, me chamo Raique e curso Análise e Desenvolvimento de Sistemas. Estou em busca de uma oportunidade como Desenvolvedor Full Stack Jr, com foco em PHP (Laravel) e evolução contínua em Java (Spring), participando de projetos onde eu possa entregar valor e crescer rapidamente.
 
-🎯 Objetivo
+## 🎯 Objetivo
 
 Busco constante evolução técnica, aprendizado de novas tecnologias e participação em projetos de diferentes portes, com foco em impacto e crescimento profissional.
 
-💼 Experiências Profissional
+## 💼 Experiências Profissional
 
 - Desenvolvedor Web/Full Stack Jr (PHP/Laravel + Filament) — Desenvolvimento e manutenção de rotinas administrativas com CRUDs completos, regras de negócio, multi-tenancy, automações (Jobs/Scheduler), uploads e relatórios (Excel/PDF).
 
-### 🧠 Tecnologias e Ferramentas
-<div align="left">
-  
+## 🧠 Tecnologias e Ferramentas
+
   **Backend:** PHP, Laravel, Java, Spring, MySQL, Filament  
   **Frontend:** Blade, Vue.js, HTML, CSS, JS  
   **Outros:** Git, Docker, Linux, Postman, REST API
-  
-</div>
 
 ## 🛠 Habilidades
 <p align="center">
@@ -39,17 +36,13 @@ Busco constante evolução técnica, aprendizado de novas tecnologias e particip
   </a>
 </p>
 
-##
+## ✍️ Cursos e Especializações
+
+**Analise e Desenvolvimento de Sistemas:** <a href="#">Em andamento</a>  
+**Java:** <a href="#">Em andamento</a>  
 
 
-<p align="center">### 📈 Estatísticas do GitHub
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=raiquegomes&show_icons=true&theme=dracula"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raiquegomes&layout=compact&theme=dracula"/>
-</p>
-
-##
-
-### 💬 Contato
+## 💬 Contato
 📧 **Email:** raiquegomes@gmail.com  
 🔗 **LinkedIn:** [linkedin.com/in/raiquegomes](https://linkedin.com/in/raiquegomes)  
 
