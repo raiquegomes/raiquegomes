@@ -23,6 +23,11 @@ Busco constante evolução técnica, aprendizado de novas tecnologias e particip
 
 - Desenvolvedor Web/Full Stack Jr (PHP/Laravel + Filament) — Desenvolvimento e manutenção de rotinas administrativas com CRUDs completos, regras de negócio, multi-tenancy, automações (Jobs/Scheduler), uploads e relatórios (Excel/PDF).
 
+## 🏍️ Hobbies & Paixões
+
+🎮: No meu tempo livre, gosto de jogos com narrativa forte e histórias envolventes, como The Last of Us e God of War. Curto experiências que prendem do começo ao fim e me fazem mergulhar na trama.  
+🏍️: Sou apaixonado por motos. Nos fins de semana, gosto de pegar a estrada e fazer pequenas viagens com amigos, aproveitando o rolê, a liberdade e conhecendo lugares novos.  
+
 ## 🧠 Tecnologias e Ferramentas
 
   **Backend:** PHP, Laravel, Java, Spring, MySQL, Filament  
